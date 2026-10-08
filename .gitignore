@@ -1,0 +1,6 @@
+/build/
+/dados/
+*.class
+.idea/
+.vscode/
+*.iml
